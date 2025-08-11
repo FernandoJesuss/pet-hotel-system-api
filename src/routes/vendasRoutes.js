@@ -1,4 +1,4 @@
-// backend/routes/vendasRoutes.js
+
 const express = require('express');
 const router = express.Router();
 const { gerarNota } = require('../controllers/vendasController');

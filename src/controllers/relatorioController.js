@@ -1,4 +1,4 @@
-// backend/controllers/relatorioController.js
+
 exports.relatorioServicos = (req, res) => {
   res.json({
     banhoETosa: 1200,

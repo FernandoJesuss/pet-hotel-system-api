@@ -1,4 +1,4 @@
-// backend/controllers/vendasController.js
+
 const { gerarNotaFiscal } = require('../utils/gerarNotaFiscal');
 
 exports.gerarNota = (req, res) => {

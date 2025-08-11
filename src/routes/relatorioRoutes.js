@@ -1,4 +1,4 @@
-// backend/routes/relatorioRoutes.js
+
 const express = require('express');
 const router = express.Router();
 const { relatorioServicos } = require('../controllers/relatorioController');

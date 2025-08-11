@@ -1,5 +1,5 @@
 
-// backend/routes/tutorRoutes.js
+
 const express = require('express');
 const router = express.Router();
 const { addTutor } = require('../controllers/tutorController');

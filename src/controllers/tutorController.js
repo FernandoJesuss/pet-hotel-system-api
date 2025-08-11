@@ -1,4 +1,4 @@
-// backend/controllers/tutorController.js
+
 const Tutor = require('../models/tutorModel');
 
 exports.addTutor = async (req, res) => {

@@ -1,4 +1,4 @@
-// backend/models/tutorModel.js
+
 const mongoose = require('mongoose');
 
 const tutorSchema = new mongoose.Schema({
